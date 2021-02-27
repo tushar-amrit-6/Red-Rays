@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "760054847998",
+    "firebase_url": "https://plasma-3937d.firebaseio.com",
+    "project_id": "plasma-3937d",
+    "storage_bucket": "plasma-3937d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760054847998:android:21c0f758e5c44cbe7448af",
+        "android_client_info": {
+          "package_name": "com.example.plasma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760054847998-7hea4qtm73rj6an15i7aa2fon7019mbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.plasma",
+            "certificate_hash": "dde8a0dd620228724a0903970d94ecace5f29d7d"
+          }
+        },
+        {
+          "client_id": "760054847998-tppi6ihddue92565cin3faip5p3j0ndc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.plasma",
+            "certificate_hash": "4901f64c1dcbb79c1d481489adb039da1843e81d"
+          }
+        },
+        {
+          "client_id": "760054847998-cr5utd79r8gf90o8vpqtu80crqadapjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjokX-IPlKRaaUmQ-tqrc8XGmV97q4K5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760054847998-cr5utd79r8gf90o8vpqtu80crqadapjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
