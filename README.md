@@ -38,7 +38,7 @@ Cross -platform application built using Firebase, Flutter, MLkit and Agora SDK
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/Shanu1515/Red-Rays.git
+https://github.com/tushar-amrit-6/Red-Rays.git
 ```
 
 **Step 2:**
